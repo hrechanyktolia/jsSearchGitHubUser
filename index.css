@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.form {
+    margin: 20px 10px;
+
+}
+.input {
+    height: 30px;
+    padding: 5px;
+    border-radius: 8px;
+    border: 1px solid black;
+}
+.btn {
+    width: 70px;
+    height: 30px;
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+    border-radius: 8px;
+    border: 1px solid black;
+}
+.wrapper {
+    width: 300px;
+}
+.image {
+    margin: 20px 35px;
+}
+.text {
+    margin: 5px 35px;
+}
+.remove {
+    margin: 5px 180px;
+    background-color: darkred;
+    color: white;
+    height: 25px;
+    width: 55px;
+    border: 1px solid black;
+    cursor: pointer;
+
+}
+
+
